@@ -1,0 +1,6 @@
+{
+  "name": "Diwali Grand Inauguration",
+  "description": "Experience a grand interactive Diwali celebration with cinematic curtains, fireworks, diyas and personalized wishes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
